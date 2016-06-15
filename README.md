@@ -10,7 +10,7 @@ This project is distributed under the terms of the
 Install from bower
 ==========
 ```bash
-bower install bootstrap-language
+bower install tuxcoffee-bootstrap-languages
 ```
 
 
